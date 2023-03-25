@@ -1,7 +1,7 @@
 # Ceypetco Gas Station Website ⛽
 This is created only for academic purposes (University Assessment). Done by using HTML, CSS & JS. (front-end)
 
-# ScreenShot of the Website
+## ScreenShot of the Website
 
 > Pages of the website 
 <img width="400" alt="1" src="https://user-images.githubusercontent.com/121493197/222964616-35bf8510-9ae8-411e-810f-df225963711e.png">
