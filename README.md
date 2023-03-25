@@ -1,5 +1,5 @@
 # Ceypetco Gas Station Website ⛽
-This is done for only for academic purposes only (University Assessment). Done by using HTML, CSS & JS. (front-end)
+This is created only for academic purposes only (University Assessment). Done by using HTML, CSS & JS. (front-end)
 
 # ScreenShot of the Website
 
